@@ -1,0 +1,7 @@
+segment,customers,pct_customers,avg_recency_days,avg_spend,pct_revenue
+Recent big spenders,22421,24.1,112.0,261.17,38.1
+Lapsed big spenders,21672,23.3,363.0,264.18,37.2
+Lapsed low spenders,23621,25.4,363.0,63.8,9.8
+Recent low spenders,22593,24.3,112.0,63.0,9.3
+Loyal high spenders,2455,2.6,218.0,339.28,5.4
+Repeat buyers,334,0.4,239.0,82.66,0.2
